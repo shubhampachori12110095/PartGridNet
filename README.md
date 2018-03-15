@@ -12,7 +12,7 @@ We propose methods of addressing two critical issues of pedestrian detection: (i
 
 ## Acknowledgements
 
-The authors would like to thank [Yunseok Jang](https://yunseokjang.github.io/) and [Juyong KIm](http://juyongkim.com/) for helpful discussions, as well as Sukyung Jeong for the artwork of figures in the paper.
+The authors would like to thank [Yunseok Jang](https://yunseokjang.github.io/) and [Juyong Kim](http://juyongkim.com/) for helpful discussions, as well as Sukyung Jeong for assisting to draw the figures in the paper.
 
 ## Authors
 
